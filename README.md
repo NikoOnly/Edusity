@@ -1,2 +1,1 @@
-# Edusity
-Edusity website in ReactJS(JSX)
+# Blog_website
